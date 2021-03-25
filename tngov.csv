@@ -1,0 +1,273 @@
+gov_name_f,adm_id,gov_id,deleg_na_1,population 
+Kebili,g63d54,63,Douz Nord,157
+Sousse,g31d52,31,Sousse Riadh,675
+Sfax,g34d56,34,Thyna,955.4
+Manubah,g14d52,14,Douar Hicher,379.5
+Ariana,g12d-2,12,Sebkhet Ariana,576.1
+Sousse,g31d61,31,Bouficha,675
+Siliana,g24d58,24,Rouhia,223.1
+Sousse,g31d60,31,Enfidha,675
+Béja,g21d54,21,Nefza,303
+Ariana,g12d51,12,Ariana Médina,576.1
+Ariana,g12d56,12,Ettadhamen,576.1
+Ariana,g12d54,12,Kalaat El Andalous,576.1
+Tunis,g11d54,11,Bab Souika,1056.2
+Tunis,g11d60,11,Bardo,1056.2
+Ben Arous,g13d51,13,Ben Arous,631.8
+Ben Arous,g13d56,13,Boumhel,631.8
+Siliana,g24d51,24,Siliana Nord,223.1
+Ben Arous,g13d53,13,El Mourouj,631.8
+Gabès,g51d60,51,Mareth,374.3
+Ben Arous,g13d52,13,Nouvelle Médina,631.8
+Manubah,g14d51,14,Manouba,379.5
+Siliana,g24d52,24,Siliana Sud,223.1
+Ariana,g12d57,12,Mnihla,576.1
+Ben Arous,g13d61,13,Fouchana,631.8
+Tunis,g11d57,11,El Tahrir,1056.2
+Tunis,g11d53,11,Ezzouhour,1056.2
+Gafsa,g61d57,61,Metlaoui,337.3
+Jendouba,g22d55,22,Aïn Draham,401.5
+Tunis,g11d68,11,Jebel Jelloud,1056.2
+Jendouba,g22d53,22,Bousalem,401.5
+Tataouine,g53d55,53,Ghomrassen,149.5
+Jendouba,g22d57,22,Ghardimaou,401.5
+Jendouba,g22d54,22,Tabarka,401.5
+Ariana,g12d55,12,Sidi Thabet,576.1
+Kassérine,g42d61,42,Foussana,429.9
+Ariana,g12d52,12,Soukra,576.1
+Médenine,g52d57,52,Djerba Midoun,479.5
+Médenine,g52d56,52,Houmt Souk,479.5
+Jendouba,g22d58,22,Oued Mliz,401.5
+Kairouan,g41d58,41,Hajeb El Ayoun,570.6
+Mahdia,g33d58,33,Chebba,410.8
+Médenine,g52d51,52,Médenine Nord,479.5
+Bizerte,g17d63,17,El Alia,568.2
+Bizerte,g17d59,17,Tinja,568.2
+Bizerte,g17d57,17,Ghazala,568.2
+Mahdia,g33d61,33,Ksour Essef,410.8
+Ben Arous,g13d57,13,Ezzahra,631.8
+Gabès,g51d51,51,Gabès Médina,374.3
+Ben Arous,g13d54,13,Hammam Lif,631.8
+Médenine,g52d59,52,Sidi Makhlouf,479.5
+Monastir,g32d51,32,Monastir,548.8
+Nabeul,g15d59,15,Haouaria,787.9
+Nabeul,g15d60,15,Takelsa,787.9
+Ben Arous,g13d59,13,Mégrine,631.8
+Ben Arous,g13d60,13,M'Hamdia,631.8
+Sfax,g34d66,34,Kerkennah,955.4
+Sfax,g34d52,34,Sfax Ouest,955.4
+Sfax,g34d64,34,Skhira,955.4
+Siliana,g24d59,24,Kesra,223.1
+Gabès,g51d52,51,Gabès Ouest,374.3
+Sidi Bou Zid,g43d60,43,Mazzouna,429.9
+Siliana,g24d61,24,Laroussa,223.1
+Zaghouan,g16d52,16,Zriba,176.9
+Sidi Bou Zid,g43d56,43,Sidi Ali Ben Aoun,429.9
+Tunis,g11d52,11,Médina,1056.2
+Siliana,g24d57,24,Makthar,223.1
+Ben Arous,g13d55,13,Hammam Chott,631.8
+Bizerte,g17d-3,17,Lake Ichkeul,568.2
+Sousse,g31d66,31,Zaouia Ksiba Thraya,675
+Bizerte,g17d53,17,Bizerte Sud,568.2
+Bizerte,g17d54,17,Sejnane,568.2
+Gabès,g51d59,51,Matmata Nouvelle,374.3
+Gafsa,g61d55,61,Oum Larais,337.3
+Tunis,g11d51,11,Carthage,1056.2
+Tunis,g11d66,11,Kabaria,1056.2
+Kassérine,g42d63,42,Majel Belabbes,439.2
+Monastir,g32d53,32,Sahline,548.8
+Le Kef,g23d57,23,Kalaa Khesba,243.2
+Monastir,g32d-7,32,,548.8
+Nabeul,g15d55,15,Menzel Temime,787.9
+Médenine,g52d55,52,Zarzis,479.5
+Sousse,g31d-4,31,Sebkhat Sidi El Hani,675
+Sfax,g34d65,34,Mahres,955.4
+Sfax,g34d54,34,Sakiet Eddaier,955.4
+Sfax,g34d53,34,Sakiet Ezzit,955.4
+Sousse,g31d-5,31,Sebkhit El Kabla,675
+Tunis,g11d70,11,Le Kram,1056.2
+Tunis,g11d-1,11,Sabkhet Sijoumi,1056.2
+Ariana,g12d53,12,Raoued,576.1
+Monastir,g32d63,32,Sayada-Lamta-Bou Hjar,548.8
+Tunis,g11d55,11,Omrane,1056.2
+Tunis,g11d56,11,Omrane Supérieur,1056.2
+Tataouine,g53d52,53,Tataouine Sud,149.5
+Tataouine,g53d54,53,Bir Lahmar,149.5
+Sousse,g31d54,31,Sousse Sidi Abdelhamid,675
+Kairouan,g41d52,41,Kairouan Sud,570.6
+Zaghouan,g16d53,16,Bir Mchergua,176.9
+Kebili,g63d55,63,Douz Sud,157
+Médenine,g52d52,52,Médenine Sud,479.5
+Monastir,g32d-6,32,Sebkhet El Moknine,548.8
+Siliana,g24d60,24,Bargou,223.1
+Sousse,g31d56,31,Akouda,675
+Siliana,g24d53,24,Bouarada,223.1
+Béja,g21d53,21,Amdoun,303
+Béja,g21d52,21,Béja Sud,303
+Béja,g21d55,21,Téboursouk,303
+Sousse,g31d51,31,Sousse Médina,675
+Béja,g21d51,21,Béja Nord,303
+Béja,g21d58,21,Goubellat,303
+Béja,g21d59,21,Mejez El Bab,303
+Béja,g21d56,21,Thibar,303
+Béja,g21d57,21,Testour,303
+Ben Arous,g13d62,13,Mornag,631.8
+Ben Arous,g13d58,13,Radès,631.8
+Bizerte,g17d51,17,Bizerte Nord,568.2
+Bizerte,g17d61,17,Ghar El Melh,568.2
+Bizerte,g17d55,17,Joumine,568.2
+Bizerte,g17d56,17,Mateur,568.2
+Bizerte,g17d58,17,Menzel Bourguiba,568.2
+Bizerte,g17d60,17,Utique,568.2
+Bizerte,g17d62,17,Menzel Jemil,568.2
+Bizerte,g17d64,17,Ras Jebel,568.2
+Gabès,g51d53,51,Gabès Sud,374.3
+Gabès,g51d54,51,Ghannouch,374.3
+Gabès,g51d57,51,Hamma,374.3
+Gabès,g51d58,51,Matmata,374.3
+Gabès,g51d56,51,Menzel Habib,374.3
+Gafsa,g61d60,61,Belkhir,337.3
+Tunis,g11d59,11,Cité El Khadra,1056.2
+Tunis,g11d58,11,El Menzah,1056.2
+Gabès,g51d55,51,Metouia,374.3
+Tunis,g11d65,11,El Ouardia,1056.2
+Gafsa,g61d51,61,Gafsa Nord,337.3
+Jendouba,g22d51,22,Jendouba Sud,401.5
+Tataouine,g53d56,53,Dhiba,149.5
+Jendouba,g22d59,22,Balta Bou Aouane,401.5
+Gafsa,g61d54,61,Gafsa Sud,337.3
+Gafsa,g61d59,61,Guetar,337.3
+Gafsa,g61d53,61,Ksar,337.3
+Gafsa,g61d58,61,Mdhilla,337.3
+Gafsa,g61d56,61,Redeyef,337.3
+Gafsa,g61d61,61,Sened,337.3
+Gafsa,g61d52,61,Sidi Aich,337.3
+Tunis,g11d63,11,Hrairia,1056.2
+Jendouba,g22d56,22,Fernana,401.5
+Jendouba,g22d52,22,Jendouba Nord,401.5
+Tunis,g11d64,11,Sidi Hassine,1056.2
+Tunis,g11d61,11,Sijoumi,1056.2
+Kairouan,g41d61,41,Bouhajla,570.6
+Kairouan,g41d56,41,Haffouz,570.6
+Kairouan,g41d57,41,Alaa,570.6
+Kairouan,g41d51,41,Kairouan Nord,570.6
+Kairouan,g41d53,41,Chebika,570.6
+Kairouan,g41d60,41,Chrarda,570.6
+Kassérine,g42d53,42,Ezzouhour,439.2
+Kairouan,g41d59,41,Nasrallah,570.6
+Kassérine,g42d54,42,Hassi El Ferid,439.2
+Kairouan,g41d55,41,Oueslatia,570.6
+Kebili,g63d52,63,Kebili Nord,157
+Kairouan,g41d54,41,Sbikha,570.6
+Kassérine,g42d58,42,Ayoun,439.2
+Kassérine,g42d62,42,Feriana,439.2
+Kassérine,g42d60,42,Hidra,439.2
+Kassérine,g42d57,42,Jedeliane,439.2
+Kassérine,g42d52,42,Kasserine Sud,439.2
+Kassérine,g42d55,42,Sbeitla,439.2
+Kassérine,g42d56,42,Sbiba,439.2
+Kassérine,g42d59,42,Thala,439.2
+Zaghouan,g16d54,16,Fahs,176.9
+Kebili,g63d56,63,Faouar,157
+Kebili,g63d51,63,Kebili Sud,157
+Monastir,g32d60,32,Teboulba,548.8
+Kebili,g63d53,63,Souk El Ahed,157
+Mahdia,g33d53,33,Ouled Chamekh,410.8
+Le Kef,g23d60,23,Dahmani,243.2
+Le Kef,g23d61,23,Es Sers,243.2
+Le Kef,g23d58,23,Jerissa,243.2
+Le Kef,g23d56,23,Kalaat Senan,243.2
+Le Kef,g23d52,23,Kef Est,243.2
+Le Kef,g23d51,23,Kef Ouest,243.2
+Le Kef,g23d59,23,Ksour,243.2
+Médenine,g52d53,52,Beni Khedache,479.5
+Le Kef,g23d53,23,Nebeur,243.2
+Zaghouan,g16d51,16,Zaghouan,176.9
+Le Kef,g23d54,23,Sakiet Sidi Youssef,243.2
+Le Kef,g23d55,23,Tajerouine,243.2
+Zaghouan,g16d55,16,Nadhour,176.9
+Mahdia,g33d52,33,Boumerdès,410.8
+Nabeul,g15d52,15,Dar Chaabane El Fehri,787.9
+Mahdia,g33d54,33,Chorbane,410.8
+Sidi Bou Zid,g43d53,43,Jelma,429.9
+Mahdia,g33d57,33,El Jem,410.8
+Nabeul,g15d62,15,Menzel Bouzelfa,787.9
+Manubah,g14d55,14,Borj El Amri,379.5
+Nabeul,g15d51,15,Nabeul,787.9
+Mahdia,g33d55,33,Hbira,410.8
+Sidi Bou Zid,g43d58,43,Meknassi,429.9
+Zaghouan,g16d56,16,Saouaf,176.9
+Mahdia,g33d51,33,Mahdia,410.8
+Mahdia,g33d59,33,Melloulech,410.8
+Sidi Bou Zid,g43d57,43,Menzel Bouzaiene,429.9
+Mahdia,g33d60,33,Sidi Alouane,410.8
+Sidi Bou Zid,g43d62,43,Ouled Haffouz,429.9
+Mahdia,g33d56,33,Souassi,410.8
+Manubah,g14d53,14,Oued Ellil,379.5
+Monastir,g32d55,32,Beni Hassen,548.8
+Manubah,g14d58,14,El Battan,379.5
+Sfax,g34d60,34,Hencha,955.4
+Manubah,g14d56,14,Jedaida,379.5
+Manubah,g14d54,14,Mornaguia,379.5
+Sidi Bou Zid,g43d61,43,Regueb,429.9
+Monastir,g32d62,32,Ksibet El Mediouni,548.8
+Monastir,g32d52,32,Ouerdanine,548.8
+Manubah,g14d57,14,Tebourba,379.5
+Médenine,g52d54,52,Ben Guerdane,479.5
+Sidi Bou Zid,g43d54,43,Sabalat Ouled Asker,429.9
+Tataouine,g53d57,53,Remada,149.5
+Médenine,g52d58,52,Djerba Ajim,479.5
+Monastir,g32d59,32,Bekalta,548.8
+Monastir,g32d57,32,Bembla,548.8
+Monastir,g32d56,32,Jammel,548.8
+Monastir,g32d61,32,Ksar Hellal,548.8
+Siliana,g24d56,24,Bourouis,223.1
+Monastir,g32d54,32,Zeramdine,548.8
+Nabeul,g15d63,15,Beni Khalled,787.9
+Monastir,g32d58,32,Moknine,548.8
+Tataouine,g53d51,53,Tataouine Nord,149.5
+Nabeul,g15d56,15,El Mida,787.9
+Nabeul,g15d53,15,Beni Khiar,787.9
+Nabeul,g15d65,15,Bou Argoub,787.9
+Nabeul,g15d64,15,Grombalia,787.9
+Sfax,g34d61,34,Menzel Chaker,955.4
+Tozeur,g62d55,62,Hazoua,107.9
+Kassérine,g42d51,42,Kasserine Nord,439.2
+Tozeur,g62d54,62,Nefta,107.9
+Nabeul,g15d58,15,Hammam Ghezaz,787.9
+Siliana,g24d55,24,El Krib,223.1
+Nabeul,g15d66,15,Hammamet,787.9
+Nabeul,g15d57,15,Kelibia,787.9
+Siliana,g24d54,24,Gaafour,223.1
+Nabeul,g15d54,15,Korba,787.9
+Tozeur,g62d53,62,Tamaghza,107.9
+Nabeul,g15d61,15,Soliman,787.9
+Sfax,g34d57,34,Agareb,955.4
+Sfax,g34d63,34,Bir Ali Ben Khélifa,955.4
+Sfax,g34d59,34,El Amra,955.4
+Sidi Bou Zid,g43d55,43,Bir El Hfay,429.9
+Sfax,g34d62,34,El Ghraiba,955.4
+Sfax,g34d58,34,Jebeniana,955.4
+Tozeur,g62d51,62,Tozeur,107.9
+Tunis,g11d53,11,Bab Bhar,1056.2
+Sfax,g34d51,34,Sfax Médina,955.4
+Tunis,g11d69,11,La Goulette,1056.2
+Sfax,g34d55,34,Sfax Sud,955.4
+Sidi Bou Zid,g43d52,43,Sidi Bouzid Est,429.9
+Sidi Bou Zid,g43d51,43,Sidi Bouzid Ouest,429.9
+Sidi Bou Zid,g43d59,43,Souk Jedid,429.9
+Sousse,g31d55,31,Hammam Sousse,675
+Tunis,g11d71,11,La Marsa,1056.2
+Sousse,g31d65,31,Kalaa Sghira,675
+Tunis,g11d67,11,Sidi El Béchir,1056.2
+Sousse,g31d59,31,Hergla,675
+Sousse,g31d53,31,Sousse Jaouhara,675
+Sousse,g31d57,31,Kalaa Kebira,675
+Sousse,g31d62,31,Kondar,675
+Sousse,g31d64,31,M'Saken,675
+Tataouine,g53d53,53,Samar,149.5
+Sousse,g31d58,31,Sidi Bou Ali,675
+Tozeur,g62d52,62,Degueche,107.9
+Sousse,g31d63,31,Sidi El Heni,675
+Bizerte,g17d52,17,Jarzouna,568.2
+Bizerte,g17d62,17,Menzel Jemil,568.2
