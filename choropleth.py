@@ -23,8 +23,7 @@ fig= px.choropleth_mapbox(df, geojson=cities,locations='id', color='population '
 color_continuous_scale="Viridis",hover_name = 'deleg_na_1', hover_data =["gov_name_f","gov_id","population "],
 labels={'population':'population number'}, mapbox_style="carto-darkmatter",zoom=4,
 center = {"lat": 36.82189, "lon":10.168969 })
-#py.plot(fig,filename='choropleth', open_auto=True)
 fig.show()
-#                                            
+                                       
 
 plt.offline.plot(fig, filename = 'map.html')
