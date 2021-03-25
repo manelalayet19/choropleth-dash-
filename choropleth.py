@@ -25,12 +25,6 @@ labels={'population':'population number'}, mapbox_style="carto-darkmatter",zoom=
 center = {"lat": 36.82189, "lon":10.168969 })
 #py.plot(fig,filename='choropleth', open_auto=True)
 fig.show()
-#                                             #set data 2 
-# df_product_viande= pd.read_csv('Production totale du viande par type.csv')
-# #print(df_product_viande)
-# fig2 = px.line(df_product_viande, x = df_product_viande['id'], y =df_product_viande==['2017'],
-# title='Production totale du viande')
-# data= [fig, fig2]
-
+#                                            
 
 plt.offline.plot(fig, filename = 'map.html')
